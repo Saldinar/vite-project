@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background: #e7f6ff;
+  padding: 100px;
+}
